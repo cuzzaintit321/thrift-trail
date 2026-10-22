@@ -1,3 +1,5 @@
+![Thrift Trail — Find your next good thing](assets/thrift-trail-cover.jpg)
+
 # Thrift Trail
 
 A mobile-friendly thrift-store finder and resale notebook built with HTML, CSS, and JavaScript.
